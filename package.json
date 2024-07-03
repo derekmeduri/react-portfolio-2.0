@@ -1,5 +1,5 @@
 {
-  "name": "react-portfolio-2.0",
+  "name": "derek-meduri-portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,14 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.4"
+    "@heroicons/react": "^2.1.3",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "next": "^14.2.3",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-icons": "^5.2.1",
+    "react-type-animation": "latest",
+    "resend": "latest",
+    "sharp": "^0.33.4"
   },
   "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.4"
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "autoprefixer": "latest",
+    "eslint-config-prettier": "^9.1.0",
+    "next": "^14.2.3",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
   }
 }
