@@ -47,16 +47,16 @@ const EmailSection = () => {
                 If you would like to discuss a project or a job opportunity please fill out the form and I will take it from there! I Look forward to bringing your visions to life. 
             </p>
             <div className="flex flex-row gap-2">
-                <Link href="github.com">
+                <Link href="https://github.com/derekmeduri">
                     <Image src={GithubIcon} alt="Github Icon" />
                 </Link>
-                 <Link href="linkedin.com/in/derekmeduri">
+                 <Link href="https://linkedin.com/in/derekmeduri">
                     <Image src={LinkedinIcon} alt="Linkedin Icon" />
                 </Link>
-                <Link href="facebook.com">
+                <Link href="https://facebook.com">
                  <Image src={FbIcon} alt="Facebook Icon" />
                 </Link>
-                 <Link href="instagram.com">
+                 <Link href="https://instagram.com/meduri.co">
                     <Image src={IgIcon} alt="Instagram Icon" />
                 </Link>
                 </div>

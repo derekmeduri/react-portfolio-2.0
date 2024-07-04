@@ -37,6 +37,7 @@ const TAB_DATA = [
             <ul className="list-disc pl-2">
                 <li>Full Stack Web Development MERN Tech Stack</li>
                 <li>Learn HTML Codecademy</li>
+                <li>Leather Techniques - Brooklyn Shoe Space</li>
             </ul>
         )
     }
