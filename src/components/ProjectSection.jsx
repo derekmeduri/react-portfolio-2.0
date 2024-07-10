@@ -7,26 +7,36 @@ import { useState } from "react";
 const projectData = [
     {
         id: 1,
-        title: "React Portfolio Update",
-        description: "Updated professional portfolio",
+        title: "www.derekmeduri.com",
+        description: "Updated professional portfolio using Nextjs and React components ",
         image: "/images/projects/1.png",
         tag: ["All", "Solo"],
-        gitUrl: "https://github.com/derekmeduri/react-portfolio",
+        gitUrl: "https://github.com/derekmeduri/react-portfolio-2.0",
         previewUrl: "https://derekmeduri.com"
 
     },
     {
         id: 2,
-        title: "Project 2 Title",
-        description: "Project 2 description",
-        image: "/images/projects/2.png",
+        title: "Vite Portfolio Site",
+        description: "Professional portfolio created as final project using vitejs and react components ",
+        image: "/images/projects/1.png",
         tag: ["All", "Bootcamp"],
-        gitUrl: "/",
-        previewUrl: "/"
+        gitUrl: "https://github.com/derekmeduri/react-portfolio",
+        previewUrl: "https://derekmeduriportfolio.netlify.app/"
 
     },
     {
         id: 3,
+        title: "Profile Energy",
+        description: "WIP web application for private client",
+        image: "/images/projects/2.png",
+        tag: ["All", "Solo"],
+        gitUrl: "https://github.com/derekmeduri/profileenergy",
+        previewUrl: "https://profileenergy.vercel.app/"
+
+    },
+    {
+        id: 4,
         title: "Project 3 Title",
         description: "Project 3 description",
         image: "/images/projects/3.png",
@@ -35,7 +45,7 @@ const projectData = [
         previewUrl: "/"
     },
     {
-        id: 4,
+        id: 5,
         title: "Project 4 Title",
         description: "Project 4 description",
         image: "/images/projects/4.png",
@@ -45,7 +55,7 @@ const projectData = [
 
     },
     {
-        id: 5,
+        id: 6,
         title: "Project 5 Title",
         description: "Project 5 description",
         image: "/images/projects/5.png",
@@ -55,7 +65,7 @@ const projectData = [
 
     },
     {
-        id: 6,
+        id: 7,
         title: "Project 6 Title",
         description: "Project 6 description",
         image: "/images/projects/6.png",
@@ -65,7 +75,7 @@ const projectData = [
 
     },
     {
-        id: 7,
+        id: 8,
         title: "Project 7 Title",
         description: "Project 7 description",
         image: "/images/projects/7.png",
@@ -75,7 +85,7 @@ const projectData = [
 
     },
     {
-        id: 8,
+        id: 9,
         title: "Project 8 Title",
         description: "Project 8 description",
         image: "/images/projects/8.png",
