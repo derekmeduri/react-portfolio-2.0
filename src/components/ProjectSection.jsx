@@ -39,7 +39,7 @@ const projectData = [
         id: 4,
         title: "Weather Forecast App",
         description: "Application built to show 5 day forecasts. Built with HTML5, CSS, and Javascript",
-        image: "/images/projects/3.png",
+        image: "/images/projects/4.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/weather-forecast",
         previewUrl: "https://derekmeduri.github.io/weather-forecast/"
@@ -48,7 +48,7 @@ const projectData = [
         id: 5,
         title: "Workday Planner App",
         description: "Application to manage your workday. Built with HTML5, CSS and Javascript",
-        image: "/images/projects/4.png",
+        image: "/images/projects/5.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/workday-planner",
         previewUrl: "https://derekmeduri.github.io/workday-planner/"
@@ -88,7 +88,7 @@ const projectData = [
         id: 9,
         title: "Squabble Sesh",
         description: "Social Media Application. Built with Vitejs, Javascript, Express, Apollo and MongoDB",
-        image: "/images/projects/8.png",
+        image: "/images/projects/9.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/Squabble-Sesh",
         previewUrl: "/"
