@@ -27,6 +27,15 @@ const projectData = [
     },
     {
         id: 3,
+        title: "614 Dim Sum",
+        description: "WIP mobile ordering application for fictional restaurant. Built with NextJs, React components and Javascript",
+        image: "/images/projects/4.png",
+        tag: ["All", "Solo"],
+        gitUrl: "https://github.com/derekmeduri/614-dim-sum",
+        previewUrl: "https://614-dim-sum.vercel.app/"
+    },
+    {
+        id: 4,
         title: "Profile Energy",
         description: "WIP web application for private clien. Built with ViteJs, React components and Javascript",
         image: "/images/projects/3.png",
@@ -35,15 +44,7 @@ const projectData = [
         previewUrl: "https://profileenergy.vercel.app/"
 
     },
-    {
-        id: 4,
-        title: "614 Dim Sum",
-        description: "WIP mobile ordering application for fictional restaurant. Built with NextJs, React components and Javascript",
-        image: "/images/projects/4.png",
-        tag: ["All", "Solo"],
-        gitUrl: "https://github.com/derekmeduri/614-dim-sum",
-        previewUrl: "https://614-dim-sum.vercel.app/"
-    },
+   
     {
         id: 5,
         title: "Weather Forecast App",
