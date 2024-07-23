@@ -37,6 +37,15 @@ const projectData = [
     },
     {
         id: 4,
+        title: "614 Dim Sum",
+        description: "Front End application built with react and javascript",
+        image: "/images/projects/4.png",
+        tag: ["All", "Solo"],
+        gitUrl: "https://github.com/derekmeduri/614-dim-sum",
+        previewUrl: "https://614-dim-sum.vercel.app/"
+    },
+    {
+        id: 5,
         title: "Weather Forecast App",
         description: "Application built to show 5 day forecasts. Built with HTML5, CSS, and Javascript",
         image: "/images/projects/4.png",
@@ -45,7 +54,7 @@ const projectData = [
         previewUrl: "https://derekmeduri.github.io/weather-forecast/"
     },
     {
-        id: 5,
+        id: 6,
         title: "Workday Planner App",
         description: "Application to manage your workday. Built with HTML5, CSS and Javascript",
         image: "/images/projects/5.png",
@@ -55,7 +64,7 @@ const projectData = [
 
     },
     {
-        id: 6,
+        id: 7,
         title: "Note Taker App",
         description: "Application to take notes or make todo lists. Built with HTML5, CSS, Javascript, Expressjs",
         image: "/images/projects/6.png",
@@ -65,7 +74,7 @@ const projectData = [
 
     },
     {
-        id: 7,
+        id: 8,
         title: "Password Generator",
         description: "Simple web application built to randomly generate passwords. Built with HTML5, CSS and Javascript",
         image: "/images/projects/7.png",
@@ -75,7 +84,7 @@ const projectData = [
 
     },
     {
-        id: 8,
+        id: 9,
         title: "Nebulas Fables",
         description: "Interactive learning tool. Built with Handlebars, Javascript and NASA API",
         image: "/images/projects/8.png",
@@ -85,7 +94,7 @@ const projectData = [
 
     },
     {
-        id: 9,
+        id: 10,
         title: "Squabble Sesh",
         description: "Social Media Application. Built with Vitejs, Javascript, Express, Apollo and MongoDB",
         image: "/images/projects/9.png",
