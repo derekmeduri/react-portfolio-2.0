@@ -8,7 +8,7 @@ const projectData = [
     {
         id: 1,
         title: "www.derekmeduri.com",
-        description: "Updated professional portfolio using Nextjs and React components ",
+        description: "Updated professional portfolio you are currently viewing. Built with Nextjs and React components.",
         image: "/images/projects/1.png",
         tag: ["All", "Solo"],
         gitUrl: "https://github.com/derekmeduri/react-portfolio-2.0",
@@ -18,7 +18,7 @@ const projectData = [
     {
         id: 2,
         title: "Vite Portfolio Site",
-        description: "Professional portfolio created as final project using vitejs and react components ",
+        description: "Professional portfolio created as final project for The Ohio State University College of Engineering Certificate Program. Built with ViteJs and React components",
         image: "/images/projects/2.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/react-portfolio",
@@ -28,7 +28,7 @@ const projectData = [
     {
         id: 3,
         title: "Profile Energy",
-        description: "WIP web application for private client",
+        description: "WIP web application for private clien. Built with ViteJs, React components and Javascript",
         image: "/images/projects/3.png",
         tag: ["All", "Solo"],
         gitUrl: "https://github.com/derekmeduri/profileenergy",
@@ -38,7 +38,7 @@ const projectData = [
     {
         id: 4,
         title: "614 Dim Sum",
-        description: "Front End application built with react and javascript",
+        description: "WIP mobile ordering application for fictional restaurant. Built with NextJs, React components and Javascript",
         image: "/images/projects/4.png",
         tag: ["All", "Solo"],
         gitUrl: "https://github.com/derekmeduri/614-dim-sum",
@@ -47,7 +47,7 @@ const projectData = [
     {
         id: 5,
         title: "Weather Forecast App",
-        description: "Application built to show 5 day forecasts. Built with HTML5, CSS, and Javascript",
+        description: "Web application to search for 5 day forecasts. Built with HTML5, CSS, and Javascript. Utilizes local storage for search history.",
         image: "/images/projects/5.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/weather-forecast",
@@ -56,7 +56,7 @@ const projectData = [
     {
         id: 6,
         title: "Workday Planner App",
-        description: "Application to manage your workday. Built with HTML5, CSS and Javascript",
+        description: "Web application to manage your workday. Built with HTML5, CSS and Javascript",
         image: "/images/projects/6.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/workday-planner",
@@ -66,7 +66,7 @@ const projectData = [
     {
         id: 7,
         title: "Note Taker App",
-        description: "Application to take notes or make todo lists. Built with HTML5, CSS, Javascript, Expressjs",
+        description: "Web application to take notes or make todo lists. Built with HTML5, CSS, Javascript, Expressjs",
         image: "/images/projects/7.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/note-taker",
@@ -76,7 +76,7 @@ const projectData = [
     {
         id: 8,
         title: "Password Generator",
-        description: "Simple web application built to randomly generate passwords. Built with HTML5, CSS and Javascript",
+        description: "Web application built to randomly generate passwords. Built with HTML5, CSS and Javascript",
         image: "/images/projects/8.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/password-generator",
@@ -86,7 +86,7 @@ const projectData = [
     {
         id: 9,
         title: "Nebulas Fables",
-        description: "Interactive learning tool. Built with Handlebars, Javascript and NASA API",
+        description: "Interactive learning tool. Built with HandlebarsJs, Javascript and NASA's Free Image API",
         image: "/images/projects/9.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/nebulas-fables",
@@ -96,7 +96,7 @@ const projectData = [
     {
         id: 10,
         title: "Squabble Sesh",
-        description: "Social Media Application. Built with Vitejs, Javascript, Express, Apollo and MongoDB",
+        description: "Social Media web application. Built with Vitejs, Javascript, Express, Apollo and MongoDB",
         image: "/images/projects/10.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/Squabble-Sesh",
