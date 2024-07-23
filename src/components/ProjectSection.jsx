@@ -48,7 +48,7 @@ const projectData = [
         id: 5,
         title: "Weather Forecast App",
         description: "Application built to show 5 day forecasts. Built with HTML5, CSS, and Javascript",
-        image: "/images/projects/4.png",
+        image: "/images/projects/5.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/weather-forecast",
         previewUrl: "https://derekmeduri.github.io/weather-forecast/"
@@ -57,7 +57,7 @@ const projectData = [
         id: 6,
         title: "Workday Planner App",
         description: "Application to manage your workday. Built with HTML5, CSS and Javascript",
-        image: "/images/projects/5.png",
+        image: "/images/projects/6.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/workday-planner",
         previewUrl: "https://derekmeduri.github.io/workday-planner/"
@@ -67,7 +67,7 @@ const projectData = [
         id: 7,
         title: "Note Taker App",
         description: "Application to take notes or make todo lists. Built with HTML5, CSS, Javascript, Expressjs",
-        image: "/images/projects/6.png",
+        image: "/images/projects/7.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/note-taker",
         previewUrl: "https://meduri-note-taker-86eae7654fa3.herokuapp.com/"
@@ -77,7 +77,7 @@ const projectData = [
         id: 8,
         title: "Password Generator",
         description: "Simple web application built to randomly generate passwords. Built with HTML5, CSS and Javascript",
-        image: "/images/projects/7.png",
+        image: "/images/projects/8.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/password-generator",
         previewUrl: "https://derekmeduri.github.io/password-generator/"
@@ -87,7 +87,7 @@ const projectData = [
         id: 9,
         title: "Nebulas Fables",
         description: "Interactive learning tool. Built with Handlebars, Javascript and NASA API",
-        image: "/images/projects/8.png",
+        image: "/images/projects/9.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/nebulas-fables",
         previewUrl: "/"
@@ -97,7 +97,7 @@ const projectData = [
         id: 10,
         title: "Squabble Sesh",
         description: "Social Media Application. Built with Vitejs, Javascript, Express, Apollo and MongoDB",
-        image: "/images/projects/9.png",
+        image: "/images/projects/10.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/Squabble-Sesh",
         previewUrl: "/"
