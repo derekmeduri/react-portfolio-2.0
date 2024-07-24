@@ -12,11 +12,14 @@ const TAB_DATA = [
             <ul className="list-disc pl-2">
                 <li>HTML</li>
                 <li>CSS</li>
+                <li>Bootstrap</li>
                 <li>Javascript</li>
                 <li>React</li>
                 <li>NextJs</li>
-                <li>MySQL</li>
-                <li>Bootstrap</li>
+                <li>ViteJs</li>
+                <li>SQL</li>
+                <li>MongoDB</li>
+               
             </ul>
         )
     },
@@ -26,7 +29,7 @@ const TAB_DATA = [
         content: (
             <ul className="list-disc pl-2">
                 <li>The Ohio State University, College of Engineering Full Stack Web Development Certificate Program</li>
-                <li>Kent State Univeristy, Bachelor's of Sceince in Fashion Merchandising</li>
+                <li>Kent State Univeristy, Bachelor's of Sceince in Fashion Merchandising with a Minor in Marketing</li>
             </ul>
         )
     },

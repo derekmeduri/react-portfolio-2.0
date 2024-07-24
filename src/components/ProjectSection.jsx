@@ -67,7 +67,7 @@ const projectData = [
     {
         id: 7,
         title: "Note Taker App",
-        description: "Web application to take notes or make todo lists. Built with HTML5, CSS, Javascript, Expressjs",
+        description: "Web application to take notes or make todo lists. Built with HTML5, CSS, Javascript, and ExpressJs",
         image: "/images/projects/7.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/note-taker",
@@ -97,7 +97,7 @@ const projectData = [
     {
         id: 10,
         title: "Squabble Sesh",
-        description: "Social Media web application. Built with Vitejs, Javascript, Express, Apollo and MongoDB",
+        description: "Social Media web application. Built with ViteJs, Javascript, ExpressJS, Apollo and MongoDB",
         image: "/images/projects/10.png",
         tag: ["All", "Bootcamp"],
         gitUrl: "https://github.com/derekmeduri/Squabble-Sesh",
