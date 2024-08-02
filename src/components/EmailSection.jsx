@@ -9,7 +9,7 @@ import Image from "next/image";
 import { useState } from "react";
 
 const EmailSection = () => {
-    const [emailSubmmited, setEmailSubmitted] = useState(false);
+    const [emailSubmitted, setEmailSubmitted] = useState(false);
 
     const handleSubmit = async (e) => {
         e.preventDefault();
@@ -31,8 +31,6 @@ const EmailSection = () => {
 
         const response = await fetch (endpoint, options);
         const resData = await response.json();
-       
-
         if (response.status === 200) {
             console.log("message sent.");
             setEmailSubmitted(true);
@@ -64,7 +62,7 @@ const EmailSection = () => {
                 </div>
         </div>
         <div>
-            {emailSubmmited ? ( <p className="text-green-500 text-sm mt-2">Email Sent!</p>) : ( 
+            {emailSubmitted ? ( <p className="text-green-500 text-sm mt-2">Email Sent!</p>) : ( 
             <form className="flex flex-col" onSubmit={handleSubmit}>
                 <div className="mb-6">
                 <label htmlFor="email" type='email' className="text-white block mb-2 text-sm font-medium ">Email</label>
