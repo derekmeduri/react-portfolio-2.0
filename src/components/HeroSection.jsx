@@ -3,6 +3,7 @@ import React from "react";
 //import res from "../../public/resume/DerekMeduriResume.pdf"
 import Image from "next/image";
 
+
 import { TypeAnimation } from 'react-type-animation';
 import Link from "next/link";
  
@@ -12,7 +13,7 @@ const HeroSection = () => {
     <section className="lg:py-16">
         <div className="grid grid-cols-2 sm:grid-cols-12">
             <div className="col-span-8 place-self-center text-center sm:text-left lg:justify-self-start">
-                <h1 className="text-white mb-4 text-4xl sm:text-5xl lg:text-6xl lg:leading-normal font-extrabold"> <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-800 via-teal-600 to-red-600">Welcome, I'm </span><br></br>
+                <h1 className="text-white mb-4 text-3xl sm:text-3xl lg:text-6xl lg:leading-normal font-extrabold"> <span className="text-transparent bg-clip-text bg-gradient-to-r from-teal-800 via-teal-600 to-red-600">Welcome, I'm </span><br></br>
                  <TypeAnimation
                     sequence={[
                      'Derek Meduri', 
@@ -37,7 +38,9 @@ const HeroSection = () => {
                     href="/#contact"
                      className="px-6 inline-block py-3 w-fit rounded-full mr-4 bg-gradient-to-br from-teal-800 via-teal-600 to-red-600 text-white hover:text-red-600">Hire Me</Link>
                     <Link 
-                    href="."
+                    href="/"
+                    download=""
+                    target="_blank"
                    
                     className="px-1 inline-block py-1 w-fit rounded-full bg-gradient-to-br from-teal-800 via-teal-600 to-red-600 text:white hover:text-red-600 mt-3">
                       <span className="block bg-black rounded-full px-5 py-2">
